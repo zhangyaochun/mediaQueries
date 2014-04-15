@@ -28,7 +28,6 @@ Not: iPhone4 and 4S has Retina
 
 min-device-width: 320px
 max-device-width: 568px
-
 ```
 
 
