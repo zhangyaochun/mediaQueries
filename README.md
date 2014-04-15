@@ -9,7 +9,7 @@ iPad media query
 min-device-width: 768px
 max-device-width: 1024px
 
-1. iPad1-iPad2
+1. iPad1-iPad2-iPadmini
 2. iPad3-iPad4 has Retina
 ```
 
