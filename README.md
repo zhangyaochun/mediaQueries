@@ -34,6 +34,7 @@ max-device-width: 568px
 
 ```shell
 screen
+
 1. {param} $resMin for min-width 
 2. {param} $resMax for max-width
 
