@@ -5,8 +5,10 @@ this is a mixin for sass Mobile use media query
 
 ```shell
 iPad media query
+
 min-device-width: 768px
 max-device-width: 1024px
+
 1. iPad1-iPad2
 2. iPad3-iPad4 has Retina
 ```
