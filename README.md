@@ -3,6 +3,17 @@ mediaQueries
 
 this is a mixin for sass Mobile use media query
 
+
+> see more from [demo](demo.scss)
+
+#### how to run demo
+
+```shell
+sass demo.scss demo.css
+```
+
+
+
 ```shell
 iPad media query
 

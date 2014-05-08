@@ -1,0 +1,8 @@
+@import "mediaQueries";
+
+
+@include iphone3(landscape) {
+  .test {
+     color: red;
+  }
+}
